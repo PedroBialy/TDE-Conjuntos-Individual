@@ -1,0 +1,4 @@
+União: conjunto 1 {1, 3, 2}, conjunto 2 {5, 4, 6}. Resultado: {1, 3, 4, 5, 2, 6}
+Interseção: conjunto 1 {5, 3, 8}, conjunto 2 {9, 2, 8}. Resultado: {8}
+Diferença: conjunto 1 {12, 32, 66}, conjunto 2 {4, 12, 22}. Resultado: {32, 66}
+Produto Cartesiano: conjunto 1 {33, 15, 22}, conjunto 2 {4, 24}. Resultado: {(33, 4), (15, 4), (33, 24), (22, 4), (15, 24), (22, 24)}
